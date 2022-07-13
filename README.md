@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karan 
+- 👋 Hi, I’m Karan 
 - 👀 I’m interested in Front End roles.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
